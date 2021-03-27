@@ -1,5 +1,5 @@
 # stashbot
-A discord bot with searchable database for gaming inventory/trading. Wishlists reported with search results for each user. Independent stash/wishlist between platform channels. Relied heavily on tutorial [here](https://www.youtube.com/watch?v=nW8c7vT6Hl4), have to give Lucas the credit and thanks.
+A discord bot with searchable database for gaming inventory/trading. Wishlists reported with search results for each user. Independent stash/wishlist between platform channels. Relied heavily on the tutorials [here](https://www.youtube.com/watch?v=nW8c7vT6Hl4), have to give Lucas the credit and thanks.
 ## Requirements
 * Your Discord ID 
   * 18-Digit code to set you as owner
